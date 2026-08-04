@@ -11,7 +11,7 @@
 ; programme.
 ;
 ; Assembleur : ACME (6502/6510)
-; Compilation : acme -f cbm -o graphics.prg graphics.asm
+; Compilation : acme -f cbm -o clearscreen.prg clearscreen.asm
 ; ================================================================
 
 * = $0801
